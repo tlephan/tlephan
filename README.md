@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Software Development in Java, Node.js, React.js, AWS
-- - 🌱 I’m currently learning AWS Cloud Computing
+- 🌱 I’m currently learning AWS Cloud Computing
 
 <!--
 **thanhpl/thanhpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
