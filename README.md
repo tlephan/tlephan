@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Software Development in Java, Node.js, React.js, SQL, CDK.
-- 🌱 I’m currently learning AWS Cloud Computing, CI/CD with Jenkins and GitHub Actions.
-- 🏃 I'm also an amateur runner and enjoy long runs 🏃🏃🏃.
+- 🧑‍💻 I’m currently working on Software Development in Java, Node.js, React.js, SQL, and CDK.
+- 🧑‍💻 I’m currently learning AWS Cloud Computing; CI/CD with Jenkins and GitHub Actions.
+- 🧑‍💻 I'm currently learning System Design.
+- 🔥 I'm also an amateur runner and enjoy long runs 🏃🏃🏃.
 
 <!--
 **thanhpl/thanhpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
