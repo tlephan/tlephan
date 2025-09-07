@@ -1,21 +1,14 @@
 ### Hi there 👋
 
-- 🧑‍💻 I’m working on Software Development in Java, Node.js, React.js, TypeScript, SQL, and CDK.
+- 👨‍🎓 I have Bachelor Degree of Software Engineering in 2015
+- 🧑‍💻 I’m working on software development in Java, Node.js, React.js, TypeScript, SQL, and CDK.
 - ☁️ I’m working on AWS cloud; CI/CD with Jenkins and GitHub Actions; And have knowledge about Google cloud.
-- 🏗️ I'm working on System Design and AI engineering.
-- 🤖 I'm developing AI solutions using LLM models, AI agent, RAG, MCP...
+- 🏗️ I'm developing skills of System Design, Software Architecture and PreSales Engineering.
+- 🤖 I'm developing features of AI solutions using LLM models, AI agent, RAG, MCP... based on context engineering, prompt engineering, dataset engineering.
+- ⚛️ Find me at <https://www.credly.com/users/tlephan/>
+- 🍀 I'm studing more about Computer Science.
 
-<!--
-**thanhpl/thanhpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+#building
+#solutioning
+```
